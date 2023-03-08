@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;curr&apos; in &apos;Menu.SavingsMenu.inputDate(...)&apos; to &apos;currSavings&apos;&#x0D;&#x0A;- Original project: &apos;ZProto-Bank&apos;&#x0D;&#x0A;- Original element: &apos;Menu.SavingsMenu.inputDate(Savings).curr&apos;&#x0D;&#x0A;- Renamed element: &apos;curr&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;curr&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;Menu{SavingsMenu.java[SavingsMenu~inputDate~QSavings;@curr!1993!2004!2001!2004!QSavings;!0!true" name="currSavings" references="true" stamp="1675834032102" version="1.0"/>
+</session>
